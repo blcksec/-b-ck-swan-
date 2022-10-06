@@ -1,7 +1,1 @@
-[[B|SWAN|CK](B|SWAN|C)
-
-[B||CKSWAN](|SWAN|)
-
-[B|SWAN|CK]([B|SWAN|CK])
-
-[](|SWAN|)
+[[B||SWAN|CK](B||SWAN|C([[B||SWAN|CK](B||SWAN|C)
