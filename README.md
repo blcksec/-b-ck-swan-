@@ -1,1 +1,5 @@
-[[B||SWAN|CK](B||SWAN|C([[B||SWAN|CK](B||SWAN|C)
+[[B||SWAN|CK]
+
+(B||SWAN|C
+
+[B|SWAN|](SWAN)
