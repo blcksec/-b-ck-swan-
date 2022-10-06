@@ -1,4 +1,4 @@
 ### [B|SWAN|CK](B|SWAN|C)
 ## BLCKSWAN
-# B||CKSWAN
+# [B||CKSWAN](|SWAN|)
 #[B|SWAN|CK]([B|SWAN|CK])
