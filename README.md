@@ -1,5 +1,7 @@
 [[B|SWAN|CK](B|SWAN|C)
-BLCKSWAN
+
 [B||CKSWAN](|SWAN|)
+
 [B|SWAN|CK]([B|SWAN|CK])
+
 [](|SWAN|)
