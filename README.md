@@ -1,2 +1,2 @@
-# blckswan
-🅱|SWAN|🅲🅺
+# 🅱|SWAN|🅲🅺
+# BLCKSWAN
