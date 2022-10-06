@@ -3,4 +3,4 @@
 # B||CKSWAN
 #
 
-[B|SWAN|CK](B|SWAN|C)
+[B||CK](SWAN)
